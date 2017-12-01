@@ -1,3 +1,6 @@
+/* Version of Python used - Python 3.x 
+The code at the end is optimized to run on Python SDK 3.x */
+
 import sys
 import random
 import os
